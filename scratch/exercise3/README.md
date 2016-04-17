@@ -8,7 +8,7 @@ description: In this exercise teachers will get more familiar with Scratch and t
 
 > ##### Keywords
 >
-> scratch, maze
+> scratch, animation
 >
 >
 >##### Related to Curriculum
@@ -36,21 +36,23 @@ description: In this exercise teachers will get more familiar with Scratch and t
 
 ### Preparations
 
-Open <https://scratch.mit.edu/projects/95637116> in a browser.
+Open <https://scratch.mit.edu/projects/editor> in a browser.
 
 
 ---
 
 ### Tasks
 
-1. Instead of showing "THE END" when the ball reaches the goal, show "HIT THE WALL. TRY AGAIN." when the ball hits one of the walls and also hide the bell.
-2. Show "YOU WON! THE END." when the ball reaches the goal.
-3. Skip the welcome screen saying "THE MAZE" and begin the game without delay.
+1. Draw four different versions of a stick figure with moving legs.
+2. Add a new sprite, call it Suvi and add the stick figures as costumes.
+3. Switch between the costumes with a small delay and move Suvi forward so it appears as if she is walking.
+4. Play footstep sounds, so it also sounds like she is walking.
+5. When she has reached half of the screen, make another sprite, called Toni, appear on the other side of the screen.
+6. Make Suvi and Toni wave at each other by adding more costumes for each of them with waving hands.
 
 ### Hint
 
-* If one block of instructions interferes with another, you will have to remove it first.
-* You can duplicate existing blocks by right clicking on them and choosing "duplicate".
+* This is an animation that might help <https://scratch.mit.edu/projects/11895129>.
 
 
 ---
